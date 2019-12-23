@@ -1,0 +1,27 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>banana-bananas.png</filename>
+    <path>C:\Users\brenn\Documents\GitHub\banana_dataset\images\banana-bananas.png</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2400</width>
+        <height>1388</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>banana</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>14</ymin>
+            <xmax>2400</xmax>
+            <ymax>1335</ymax>
+        </bndbox>
+    </object>
+</annotation>

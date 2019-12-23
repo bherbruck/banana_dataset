@@ -1,0 +1,27 @@
+
+<annotation>
+    <folder>images</folder>
+    <filename>Banana-iStock.jpg</filename>
+    <path>C:\Users\brenn\Documents\GitHub\banana_dataset\images\Banana-iStock.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>2121</width>
+        <height>1414</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>banana</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>130</xmin>
+            <ymin>138</ymin>
+            <xmax>2022</xmax>
+            <ymax>1143</ymax>
+        </bndbox>
+    </object>
+</annotation>
